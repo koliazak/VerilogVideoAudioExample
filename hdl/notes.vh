@@ -1,0 +1,25 @@
+`define NOTE_C0    16.35
+`define NOTE_CS0   17.32
+`define NOTE_D0    18.35
+`define NOTE_DS0   19.45
+`define NOTE_E0    20.6
+`define NOTE_F0    21.83
+`define NOTE_FS0   23.13
+`define NOTE_G0    24.5
+`define NOTE_GS0   25.96
+`define NOTE_A0    27.5
+`define NOTE_AS0   29.14
+`define NOTE_B0    30.87
+
+`define NOTE_C1    32.7
+`define NOTE_CS1   34.64
+`define NOTE_D1    36.71
+`define NOTE_DS1   38.89
+`define NOTE_E1    41.2
+`define NOTE_F1    43.63
+`define NOTE_FS1   46.25
+`define NOTE_G1    48.0
+`define NOTE_GS1   51.91
+`define NOTE_A1    55.0
+`define NOTE_AS1   58.27
+`define NOTE_B1    61.74
